@@ -8,7 +8,7 @@ function mostrarMenores(){
         let nombre = document.getElementById(inputName + x).value;
         let edad = document.getElementById(inputAge + x).value;
 
-        if(edad < 10){
+        if(edad < 10 && edad != ''){
             console.log(nombre)
         }
     }
