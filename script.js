@@ -3,5 +3,5 @@ function mostrar(){
 }
 
 function mostrarEnConsola(){
-    console.log("Hola");
+    console.log("Hola mundo");
 }
