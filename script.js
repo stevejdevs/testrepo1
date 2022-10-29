@@ -1,5 +1,5 @@
 function mostrar(){
-    alert("Hola");
+    alert("Hola mundo");
 }
 
 function mostrarEnConsola(){
